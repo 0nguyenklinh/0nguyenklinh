@@ -37,7 +37,7 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nguyenklinh&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenklinh&theme=radical" alt="GitHub Streak" />
+  <img src="https://photos.fife.usercontent.google.com/pw/AP1GczOYnJmEyA_Rb0gAiEQKjgSZkHGhTBh9R1N2JjLWFnbze2X-HKo1WJuN=w685-h913-s-no-gm?authuser=0"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@
   <a href="https://github.com/your-username" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:khanhlinhmn6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
