@@ -7,13 +7,11 @@
 ### 🔥 About Me
 - 🌱 I’m currently learning docker, aws ....
 - 📫 Reach me at: **khanhmn6@gmail.com**
-- ⚡ Fun fact: I enjoy solving algorithm challenges and exploring new technologies.
+- ⚡ Fun fact: I can make and play bamboo flutes myself.
 
 ---
 
 ### 🛠️ Technologies & Tools
-
-#### 💻 Backend
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
