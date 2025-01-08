@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nguyễn Khánh Linh</h1>
-<h3 align="center">A developer from Vietnam. I'm passionate about backend architecture. I constantly strive to expand my foundational knowledge and grow every day.</h3>
+<h3 align="">A developer from Vietnam. I'm passionate about backend architecture. I constantly strive to expand my foundational knowledge and grow every day.</h3>
 
 
 ---
